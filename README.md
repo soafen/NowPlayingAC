@@ -5,6 +5,8 @@ Now Playing Auto Clear, a simple AutoHotkey script to monitor foobar2000's Windo
 
 i'm really not a programmer by any means but i wanted something that would only show what song's playing on each track change, and i'm not using anything like Spotify so this will work for me.
 
+once you have this up and running, all that's left is to add a Text Source in OBS (or other streaming software that can read from a file), and in the properties of the Text Source, make sure to tick "Read from file"!
+
 feel free to modify this as you wish, make it work with a media player of your choosing, or if you're smarter than me maybe you could do this in a better way!
 
 either way, if it works it works. have fun :3
