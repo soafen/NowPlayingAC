@@ -1,5 +1,5 @@
 # NowPlayingAC
-a simple AutoHotkey script to monitor foobar2000's Window Title, dump it to a text file if a song is playing, stripping the foobar2000 naming from it, adding a musical note ♪ and clearing the file after 10 seconds.
+Now Playing Auto Clear, a simple AutoHotkey script to monitor foobar2000's Window Title, dump it to a text file if a song is playing, stripping the foobar2000 naming from it, adding a musical note ♪ and clearing the file after 10 seconds.
 
 ### NOTE: make sure to edit the file path on line 1 so nowplaying.txt ends up in your desired location!
 
